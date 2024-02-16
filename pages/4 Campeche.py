@@ -420,8 +420,10 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Campeche-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Campeche-CAP.html)")
+url = 'Campeche.html'
 
+if st.button('Campeche-mapa'):
+    webbrowser.open_new_tab(url)
 
 
 # ---- HIDE STREAMLIT STYLE ----
@@ -433,3 +435,4 @@ hide_st_style = """
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
+
