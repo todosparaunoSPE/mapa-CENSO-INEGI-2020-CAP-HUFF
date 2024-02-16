@@ -89,6 +89,10 @@ t11 = int(df_selection["PDESOCUP_F"].sum())
 t12 = int(df_selection["PDESOCUP_M"].sum())
 
 
+
+
+
+
 #average_rating = round(df_selection["Rating"].mean(), 1)
 #star_rating = ":star:" * int(round(average_rating, 0))
 #average_sale_by_transaction = round(df_selection["Total"].mean(), 2)
@@ -416,7 +420,8 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Campeche-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Campeche-CAP.html)")
+st.link_button("Campeche-mapa", "https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/campeche.html")
+
 
 
 # ---- HIDE STREAMLIT STYLE ----
@@ -428,4 +433,3 @@ hide_st_style = """
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
-
