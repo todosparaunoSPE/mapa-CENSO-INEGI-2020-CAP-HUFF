@@ -89,10 +89,6 @@ t11 = int(df_selection["PDESOCUP_F"].sum())
 t12 = int(df_selection["PDESOCUP_M"].sum())
 
 
-
-
-
-
 #average_rating = round(df_selection["Rating"].mean(), 1)
 #star_rating = ":star:" * int(round(average_rating, 0))
 #average_sale_by_transaction = round(df_selection["Total"].mean(), 2)
