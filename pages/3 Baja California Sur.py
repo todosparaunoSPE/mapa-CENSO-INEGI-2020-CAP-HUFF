@@ -420,10 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-url = 'mapa2.html'
-
-if st.button('Baja California Sur-mapa'):
-    webbrowser.open_new_tab(url)
+st.write("Baja California Sur-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Baja%20California%20Sur-CAP.html)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
