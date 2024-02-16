@@ -422,7 +422,7 @@ right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
 
-
+st.write("Colima-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Colima-CAP.html)")
 
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
