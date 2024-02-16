@@ -422,7 +422,9 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.link_button("Durango-mapa", "https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Durango.html")
+#st.link_button("Durango-mapa", "https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Durango.html")
+
+st.link_button("Go to gallery", "https://streamlit.io/gallery")
 
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
