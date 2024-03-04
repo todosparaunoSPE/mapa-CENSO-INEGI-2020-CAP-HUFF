@@ -421,7 +421,7 @@ right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
 
-st.write("Baja California-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Baja%20California-CAP.html)")
+st.write("Baja California-Mapa [link](https://todosparaunospe.github.io/Baja-California/)")
 
 
 
