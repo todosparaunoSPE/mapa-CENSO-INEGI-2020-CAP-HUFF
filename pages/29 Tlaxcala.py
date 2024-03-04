@@ -420,7 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Tlaxcala-Mapa [link](https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Tlaxcala-CAP.html)")
+st.write("Tlaxcala-Mapa [link](https://todosparaunospe.github.io/Tlaxcala/)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
