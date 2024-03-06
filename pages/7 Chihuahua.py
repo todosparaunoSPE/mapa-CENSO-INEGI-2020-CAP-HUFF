@@ -420,7 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Chihuahua-Mapa [link](https://todosparaunospe.github.io/Chihuahua/)")
+st.write("Chihuahua-Mapa [link](https://todosparaunospe.github.io/entidad-7/)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
