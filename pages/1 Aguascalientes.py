@@ -424,7 +424,7 @@ right_column.plotly_chart(fig12, use_container_width=True)
 
 #st.link_button("Durango-mapa", "https://2z6f2lrzc5fegrmyunpt2q.on.drv.tw/html/Durango.html")
 
-st.write("Aguascalientes-Mapa [link](https://todosparaunospe.github.io/entidad1/)")
+st.write("Aguascalientes-Mapa [link](https://todosparaunospe.github.io/Aguascalientes-1/)")
 
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """
