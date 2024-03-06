@@ -421,7 +421,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Durango-Mapa [link](https://todosparaunospe.github.io/Durango/)")
+st.write("Durango-Mapa [link](https://todosparaunospe.github.io/entidad-10/)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
