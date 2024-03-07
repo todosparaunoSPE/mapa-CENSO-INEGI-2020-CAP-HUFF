@@ -420,7 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Puebla-Mapa [link](https://todosparaunospe.github.io/Puebla/)")
+st.write("Puebla-Mapa [link](https://todosparaunospe.github.io/Puebla-21/)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
