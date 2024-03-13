@@ -420,7 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Guanajuato-Mapa [link](https://todosparaunospe.github.io/guanajuato-XI/)")
+st.write("Guanajuato-Mapa [link](https://todosparaunospe.github.io/Guanajuato-11/)")
 
 
 # ---- HIDE STREAMLIT STYLE ----
