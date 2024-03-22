@@ -60,7 +60,7 @@ st.subheader(" ")
 st.subheader("")
 st.subheader("")
 
-
+st.write("Aguascalientes-Mapa [link](https://todosparaunospe.github.io/57-CAPS/)")
 
 
 st.sidebar.success("Seleccione una página de arriba.")
