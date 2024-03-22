@@ -420,7 +420,7 @@ left_column.plotly_chart(fig11, use_container_width=True)
 right_column.plotly_chart(fig12, use_container_width=True)
 ############################################################################################
 
-st.write("Tamaulipas-Mapa [link](https://todosparaunospe.github.io/Tamaulipas-XVIII/)")
+st.write("Tamaulipas-Mapa [link](https://todosparaunospe.github.io/Tamaulipas/)")
 
 
 
