@@ -60,7 +60,7 @@ st.subheader(" ")
 st.subheader("")
 st.subheader("")
 
-st.write("57 CAP's-Mapa [link](https://todosparaunospe.github.io/57-CAPS/)")
+st.write("57 CAP's-Mapa [link](https://todosparaunospe.github.io/57--CAPS/)")
 
 
 st.sidebar.success("Seleccione una página de arriba.")
