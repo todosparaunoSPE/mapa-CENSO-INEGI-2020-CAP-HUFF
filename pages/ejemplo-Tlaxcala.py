@@ -60,7 +60,7 @@ st.subheader(" ")
 st.subheader("")
 st.subheader("")
 
-st.write("Ejemplo [link](https://todosparaunospe.github.io/57-CAPS/)")
+st.write("Ejemplo [link](https://todosparaunospe.github.io/ejemplo-Huff-Tlaxcala/)")
 
 
 #st.sidebar.success("Seleccione una página de arriba.")
