@@ -60,7 +60,7 @@ st.subheader(" ")
 st.subheader("")
 st.subheader("")
 
-st.write("Ejemplo [link](https://todosparaunospe.github.io/ejemplo-Huff-Tlaxcala/)")
+st.write("Ejemplo [link](https://ruta-huff-3u3dypn4wklirxjyzr78es.streamlit.app/)")
 
 
 #st.sidebar.success("Seleccione una página de arriba.")
