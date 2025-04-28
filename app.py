@@ -80,7 +80,7 @@ st.sidebar.success("Seleccione una página de arriba.")
 
 # Sidebar con tu información
 with st.sidebar:
-    st.header("Autoría")
+    st.header("Desarrollado por")
     st.markdown("""
     **Javier Horacio Pérez Ricardez** 
     """)
