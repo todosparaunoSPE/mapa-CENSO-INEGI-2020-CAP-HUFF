@@ -73,3 +73,14 @@ st.sidebar.success("Seleccione una página de arriba.")
 #if submit:
 #    st.session_state["my_input"] = my_input
 #    st.write("You have entered: ", my_input)
+
+
+
+
+
+# Sidebar con tu información
+with st.sidebar:
+    st.header("Autoría")
+    st.markdown("""
+    **Javier Horacio Pérez Ricardez** 
+    """)
